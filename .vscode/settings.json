@@ -1,3 +1,8 @@
 {
-  "python.pythonPath": "/Users/moshfeghhamedani/.local/share/virtualenvs/storefront-Xk9k71tz/bin/python"
+  "python.pythonPath": "C:\\Users\\Bartek\\.virtualenvs\\storefront-jtPYK7wJ\\bin\\python",
+  "editor.tabCompletion": "on",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "editor.defaultFormatter": "ms-python.autopep8",
+  "python.linting.flake8Enabled": true
 }
