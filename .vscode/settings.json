@@ -1,8 +1,8 @@
 {
   "python.pythonPath": "C:\\Users\\Bartek\\.virtualenvs\\storefront-jtPYK7wJ\\bin\\python",
   "editor.tabCompletion": "on",
-  "python.linting.pylintEnabled": false,
-  "python.linting.enabled": true,
   "editor.defaultFormatter": "ms-python.autopep8",
-  "python.linting.flake8Enabled": true
+  "editor.formatOnSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
